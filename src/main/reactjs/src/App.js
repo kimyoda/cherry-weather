@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import mainImg from "./image/s8.JPG";
 
